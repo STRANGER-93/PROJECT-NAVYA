@@ -1,0 +1,45 @@
+IoT Based Women’s Safety Security Using GPS
+
+
+this was based on creating portable device for emergency situations.
+- the device would send SOS signal to the IoT cloud upon activation simultaneously handling GPS module to track live location.
+
+-tools:
+	Arduino Uno, GPS--> location tracking
+	 IoT cloud platform (Thingspeak) --> data transmission and remote access
+	 panic button --> user's emergency situation activation
+ 	 buzzer  -- > immediate local feedback
+
+	CORE COMPONENT -> ARDUINO UNO MICROCONTROLLER
+
+IN OUR PROJECT NAVYA:
+AS OUR FUTURE ENHANCEMENT , WE ARE LOOKING TO USE SMALL SIZED CONTROLLERS TO ACTIVATE THE EMERGENCY SITUATIONS SIGNALS INSTEAD OF ARDUIUNO CONSIDERING ITS SIZE.
+IoT Based Women’s Safety Security Using GPS	Limitations	Our Project Navya
+IoT Based Women's Safety Security Using GPS	Focuses only on safety and location tracking	tracking
+Integrates safety, menstrual health, and emotional wellness
+IoT safety device	No reproductive health features	Menstrual cycle tracking and predictions
+Emergency communication only	Limited personalization	Personalized recommendations and wellness insights
+ARDUINO UNO MICROCONTROLLER	Big in size	small sized controllers to fit in the jwells or make it wearble or fit in the pocket.
+
+HOW IT SUPPORTS OUR PROJECT?
+The paper "IoT Based Women's Safety Security Using GPS" directly supports the Women's Safety and SOS System.
+
+Focus on women's safety	Includes women's safety as a major module
+
+
+Paper System	our Project
+GPS-based location tracking	GPS-based location tracking
+Emergency alert mechanism	SOS emergency alert feature
+Real-time location sharing	Real-time location sharing with trusted contacts
+
+
+
+# Relevance
+
+--> The study is relevant to the proposed Women Wellness Application because it demonstrates the effectiveness of GPS-based emergency alert systems for enhancing women's safety. The real-time location-sharing and emergency notification mechanisms discussed in the paper provide a foundation for the SOS feature of the proposed system. However, unlike the reviewed study, the proposed application extends beyond safety by integrating menstrual health tracking, emotional wellness monitoring, and personalized recommendations within a single platform.
+
+# Research Gap Identified
+
+The paper reveals an important gap:
+
+Existing solutions focus primarily on emergency response and location tracking but do not address other aspects of women's well-being such as reproductive health management and emotional wellness. Therefore, there is a need for an integrated platform that combines health, wellness, and safety services in a single application.
